@@ -3,4 +3,5 @@ Remove sqlalchemy constraint in setup.cfg OR
  pull from a previous amsk branch and commit.
 
 Create wheel with:
+rm -rf ./dist ./build
 python setup.py sdist bdist_wheel
