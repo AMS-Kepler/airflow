@@ -1,0 +1,6 @@
+Create branch amsk-M.m.r from release tag
+Remove sqlalchemy constraint in setup.cfg OR
+ pull from a previous amsk branch and commit.
+
+Create wheel with:
+python setup.py sdist bdist_wheel
